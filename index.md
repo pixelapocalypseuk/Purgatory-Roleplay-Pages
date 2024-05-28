@@ -1,6 +1,7 @@
+<div style="text-align:center">
 Discord Rules & Guidelines
 Purgatory Roleplay
-
+</div>
 
 ::DISCLAIMER(S)::
 As we utilize the services of Discord™ it is imperative that you follow their TOS which you can find here. 
