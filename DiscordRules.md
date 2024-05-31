@@ -32,7 +32,7 @@
     Keep your OOC and IC separate.
 
 
-## 2. Ticket Creation, Use, & Purpose
+## 2. Ticket Creation, Use & Purpose
 
 - 2.1 Ticket Usage
     - Tickets are meant to be utilized for communication between staff and players.
